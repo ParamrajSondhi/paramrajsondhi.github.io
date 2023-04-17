@@ -1,0 +1,64 @@
+/* Header  */
+header {
+    background-color: #eff4e0; /* White Shade */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  nav a {
+    color: #000000;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 10px 15px;
+    border-radius: 5px;
+  }
+  
+  nav a:hover {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  nav {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+/* Body */
+.hero-image {
+    background-image: url('img/Hero-Image.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .hero-text h1 {
+    font-size: 4rem;
+    font-family: 'Nova Oval', cursive;
+  }
+  
+  .hero-text p {
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 2rem;
+    font-family: 'Bebas Neue', cursive;
+  }
+  
+  button {
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    background-color: transparent;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
