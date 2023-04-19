@@ -31,7 +31,7 @@ header {
   nav {font-family: Verdana, Geneva, Tahoma, sans-serif;}
 /* Body */
 .hero-image {
-    background-image: url('img/Hero-Image.jpg');
+    background-color: #eff4e0;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
