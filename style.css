@@ -1,0 +1,20 @@
+/* header  */
+
+header{
+    margin: -8px auto;
+    border: 2px solid red;
+    padding: 2px;
+    width: auto;
+    background-color: aliceblue;
+    /* list-style: none; */
+    text-decoration: none;
+}
+.contact{
+}
+.contact li{
+    float: left;
+    margin: 10px;
+    padding: 0px;
+    /* text-decoration: none; */
+    list-style: none;
+}
